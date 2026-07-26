@@ -36,7 +36,7 @@ const content = {
     title: "Promoting the Spiritual",
     icon: '<img src="assets/icon-2-promoting-spiritual.png" alt="">',
     body: [
-      "Even as a busy businessman, Edmund Rice made time for prayer and quiet reflection. He believed a good life needed more than money or success, it needed a strong relationship with God. When he opened his schools, he made sure faith and prayer were part of everyday life, not just Sunday mornings. St Ambrose keeps that same spirit alive, giving pupils space to pause, reflect and grow closer to God."
+      "Even as a busy businessman, Edmund Rice made time for prayer and quiet reflection. He believed a good life needed more than money or success, it needed a strong relationship with God. When he opened his schools, he made sure faith and prayer were part of everyday life, not just Sunday mornings. St Ambrose promotes that same spirit, giving pupils space to reflect and grow closer to God."
     ]
   },
   e3: {
