@@ -29,7 +29,7 @@ const content = {
     title: "Evangelising the Modern World",
     icon: '<img src="assets/icon-1-evangelising.png" alt="">',
     body: [
-      "Edmund Rice didn't just talk about his faith, he lived it out loud. He used his own money and time to show God's love to children that nobody else was looking after. He believed faith wasn't something to keep quiet about, it was something to share through kindness and action. At St Ambrose, we try to do the same today, letting our faith show in how we treat people, not just in what we say."
+      "Edmund Rice didn't just talk about his faith, he lived it throughout his life. He used his own money and time to show God's love to children that nobody else was looking after. He believed faith wasn't something to keep quiet about, it was something to share through kindness and action. At St Ambrose, we will try to do the same today, letting our faith show in how we treat people, not just in what we say."
     ]
   },
   e2: {
@@ -43,35 +43,35 @@ const content = {
     title: "Building a Christian Community",
     icon: '<img src="assets/icon-3-christian-community.png" alt="">',
     body: [
-      "After his wife died, Edmund Rice could have shut himself away. Instead, he gathered other men who shared his vision and started the Christian Brothers together. He knew that one person can only do so much, but a community working as one can change lives. That small group grew into schools all over the world. St Ambrose is still part of that same community today, built on faith, friendship and working together."
+      "After his wife died, Edmund Rice could have shut himself away. Instead, he gathered other men who shared his vision and started the Christian Brothers together. He knew that one person can only do so much, but a community working as one can change lives. That small group grew into schools all over the world. St Ambrose is still part of that same community today, built on faith, friendship and working together. Being part of a community is very special."
     ]
   },
   e4: {
     title: "Compassion for Those in Need",
     icon: '<img src="assets/icon-4-compassion.png" alt="">',
     body: [
-      "Edmund Rice saw children on the streets of Kilkenny with no school, no shoes and no hope of a better life, and it broke his heart. He didn't just feel sorry for them, he acted, spending his own fortune to open schools where they were welcome. He treated every child with kindness and respect, no matter how poor they were. St Ambrose asks us to notice when someone needs help, and to actually do something about it too."
+      "Edmund Rice saw children on the streets of Kilkenny in Ireland with no school, no shoes and no hope of a better life, and he found it very upsetting. He didn't just feel sorry for them, he acted - spending his own money to open schools where they were welcome. He treated every child with kindness and respect, no matter how poor they were. St Ambrose asks us to follow this example of showing compassion to others."
     ]
   },
   e5: {
     title: "Concern for the Whole Person",
     icon: '<img src="assets/icon-5-whole-person.png" alt="">',
     body: [
-      "Edmund Rice cared about more than just his pupils' reading and writing. He wanted every child to feel valued, safe and loved, not just clever. He treated each boy as a whole person, with feelings, struggles and dreams of his own. That's why St Ambrose looks after pupils' wellbeing and character, not only their grades, because every person matters completely, not just the parts that show up on a report card."
+      "Edmund Rice cared about more than just his pupils' reading and writing. He wanted every child to feel valued, safe and loved, not just clever. He treated each boy as a whole person, with feelings, struggles and dreams of his own. St Ambrose strives to look after pupils' wellbeing and character, not only their results, because every person matters completely."
     ]
   },
   e6: {
     title: "Striving for Excellence",
     icon: '<img src="assets/icon-6-excellence.png" alt="">',
     body: [
-      "Edmund Rice never did things by half measures. He worked tirelessly to give poor children the same quality of education that wealthy children received, refusing to believe they deserved any less. He pushed his schools to be genuinely excellent, not just adequate, because he believed his pupils were worth the effort. That same drive lives on at St Ambrose today, where pupils are encouraged to aim high and give their very best."
+      "Edmund Rice was very hard working. He worked tirelessly to give poor children the same quality of education that wealthy children received, refusing to believe they deserved any less. He pushed his schools to be genuinely excellent, not just adequate, because he believed his pupils were worth the effort. That same drive lives on at St Ambrose today, where pupils are encouraged to aim high and give their very best."
     ]
   },
   e7: {
     title: "Education as a Christian Calling",
     icon: '<img src="assets/icon-7-christian-calling.png" alt="">',
     body: [
-      "For Edmund Rice, teaching was never just a job, he believed God had called him to do it. He wanted his schools to help pupils grow closer to God as well as learn their lessons. Faith and learning went hand in hand in everything he built, each one strengthening the other. At St Ambrose, education is still seen as something sacred, a calling to help each pupil grow in both knowledge and faith."
+      "For Edmund Rice, teaching was never just a job, he believed God had called him to do it. He wanted his schools to help pupils grow closer to God as well as learn their lessons. Faith and learning went hand in hand in everything he built. At St. Ambrose, education is still seen as  a combination of both knowledge and faith."
     ]
   },
   e8: {
