@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>St Ambrose — Blessed Edmund Rice &amp; the Eight Essentials</title>
+<meta name="description" content="Meet Blessed Edmund Rice and explore the Eight Essentials that shape St Ambrose today.">
+
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='48' fill='%2310274A'/%3E%3Crect x='46' y='24' width='8' height='52' rx='2' fill='%23EFBF4C'/%3E%3Crect x='24' y='46' width='52' height='8' rx='2' fill='%23EFBF4C'/%3E%3C/svg%3E">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-inner">
+    <p class="eyebrow">St Ambrose College</p>
+    <h1>Welcome to St&nbsp;Ambrose</h1>
+    <p class="lede">Our college crest and the Eight Essentials of Edmund Rice reflect who we are. Tap the crest to meet him — tap each emblem to see how his story still shapes St&nbsp;Ambrose today.</p>
+  </div>
+</header>
+
+<main>
+  <section class="wheel-section" aria-labelledby="wheel-heading">
+    <h2 id="wheel-heading" class="visually-hidden">The Eight Essentials of Edmund Rice</h2>
+
+    <div class="wheel">
+
+      <div class="crest-wrap">
+        <button type="button" class="crest-btn" data-key="crest" aria-haspopup="dialog">
+          <span class="halo" aria-hidden="true"></span>
+          <span class="crest-circle">
+            <svg class="crest-icon" viewBox="0 0 100 100" aria-hidden="true">
+              <g stroke="#EFBF4C" stroke-width="3.2" stroke-linecap="round" fill="none">
+                <line x1="50" y1="9" x2="50" y2="1"></line>
+                <line x1="67" y1="14" x2="72.5" y2="7"></line>
+                <line x1="33" y1="14" x2="27.5" y2="7"></line>
+                <line x1="79" y1="26" x2="86" y2="20"></line>
+                <line x1="21" y1="26" x2="14" y2="20"></line>
+              </g>
+              <g fill="#EFBF4C">
+                <rect x="46" y="31" width="8" height="46" rx="2"></rect>
+                <rect x="32" y="47" width="36" height="8" rx="2"></rect>
+              </g>
+            </svg>
+            <span class="crest-label">St Ambrose</span>
+          </span>
+        </button>
+        <p class="crest-hint">Tap to meet Edmund&nbsp;Rice</p>
+      </div>
+
+      <button type="button" class="medallion-btn area-a" data-key="e1" aria-haspopup="dialog">
+        <span class="medallion-circle"><img src="assets/icon-1-evangelising.png" alt="" loading="lazy"></span>
+        <span class="medallion-label">Evangelising the modern world</span>
+      </button>
+
+      <button type="button" class="medallion-btn area-b" data-key="e2" aria-haspopup="dialog">
+        <span class="medallion-circle"><img src="assets/icon-2-promoting-spiritual.png" alt="" loading="lazy"></span>
+        <span class="medallion-label">Promoting the spiritual</span>
+      </button>
+
+      <button type="button" class="medallion-btn area-c" data-key="e3" aria-haspopup="dialog">
+        <span class="medallion-circle"><img src="assets/icon-3-christian-community.png" alt="" loading="lazy"></span>
+        <span class="medallion-label">Building a Christian community</span>
+      </button>
+
+      <button type="button" class="medallion-btn area-d" data-key="e4" aria-haspopup="dialog">
+        <span class="medallion-circle"><img src="assets/icon-4-compassion.png" alt="" loading="lazy"></span>
+        <span class="medallion-label">Compassion for those in need</span>
+      </button>
+
+      <button type="button" class="medallion-btn area-e" data-key="e5" aria-haspopup="dialog">
+        <span class="medallion-circle"><img src="assets/icon-5-whole-person.png" alt="" loading="lazy"></span>
+        <span class="medallion-label">Concern for the whole person</span>
+      </button>
+
+      <button type="button" class="medallion-btn area-f" data-key="e6" aria-haspopup="dialog">
+        <span class="medallion-circle"><img src="assets/icon-6-excellence.png" alt="" loading="lazy"></span>
+        <span class="medallion-label">Striving for excellence</span>
+      </button>
+
+      <button type="button" class="medallion-btn area-g" data-key="e7" aria-haspopup="dialog">
+        <span class="medallion-circle"><img src="assets/icon-7-christian-calling.png" alt="" loading="lazy"></span>
+        <span class="medallion-label">Education as a Christian calling</span>
+      </button>
+
+      <button type="button" class="medallion-btn area-h" data-key="e8" aria-haspopup="dialog">
+        <span class="medallion-circle"><img src="assets/icon-8-justice.png" alt="" loading="lazy"></span>
+        <span class="medallion-label">Education for justice</span>
+      </button>
+
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p>Made by Sebastian</p>
+</footer>
+
+<dialog id="info-modal" class="modal" aria-labelledby="modal-title">
+  <button type="button" class="modal-close" id="modal-close" aria-label="Close">&times;</button>
+  <div class="modal-icon" id="modal-icon" aria-hidden="true"></div>
+  <h2 id="modal-title"></h2>
+  <div id="modal-body" class="modal-body"></div>
+</dialog>
+
+<script src="script.js"></script>
+</body>
+</html>
